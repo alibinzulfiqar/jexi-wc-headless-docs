@@ -1,0 +1,8 @@
+{
+  "label": "API Reference",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Complete API reference for all Jexi WC Headless endpoints. Browse documentation for products, cart, checkout, authentication, orders, customers, payments, shipping, and more."
+  }
+}
