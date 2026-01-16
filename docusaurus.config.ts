@@ -11,11 +11,12 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://alibinzulfiqar.live',
-  baseUrl: '/docs/',
+  url: 'https://alibinzulfiqar.github.io',
+  baseUrl: '/jexi-wc-headless-docs/',
 
   organizationName: 'alibinzulfiqar',
-  projectName: 'jexi-wc-headless',
+  projectName: 'jexi-wc-headless-docs',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
 
