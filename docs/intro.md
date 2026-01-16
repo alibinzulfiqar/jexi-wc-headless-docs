@@ -63,7 +63,7 @@ curl -H "Authorization: Bearer YOUR_TOKEN" \
 | [Customers](/api-reference/customers) | Customer accounts | `/customers`, `/customers/{id}` |
 | [Authentication](/api-reference/authentication) | User auth & registration | `/auth/login`, `/auth/register` |
 | [Store](/api-reference/store) | Store settings & info | `/store`, `/store/currency` |
-| [Content](/api-reference/content) | WordPress posts & pages | `/content/posts`, `/content/pages` |
+| [Posts](/api-reference/posts) | WordPress posts & pages | `/content/posts`, `/content/pages` |
 | [Menus](/api-reference/menus) | Navigation menus | `/menus`, `/menus/locations` |
 
 ## Response Format
